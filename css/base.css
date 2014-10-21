@@ -15,6 +15,7 @@ p {
     font-family: arial;
     font-size: 16px;
     line-height: 22px;
+    text-align: center;
 }
 
 header {
@@ -52,10 +53,6 @@ header a:active {
 }
 header a:focus {} 
 
-img {
-    width: 100%;
-}
-
 article {
     clear: both;
     padding: 0 10px 0 10px; 
@@ -81,8 +78,14 @@ footer {
 
 }
 
+footer a {
+    color: #bbbbbb;
+    text-decoration: none;
+}
+
 footer a:link {}
 footer a:visited {}
 footer a:hover {
     color: #ffffff;
 }
+
