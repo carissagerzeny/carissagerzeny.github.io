@@ -74,6 +74,15 @@ article h2 {
 } 
 
 footer {
+    background-color: #000000;
+    color: #ffffff;
     font-size: 12px; 
     padding: 0 10px 0 10px; 
+
+}
+
+footer a:link {}
+footer a:visited {}
+footer a:hover {
+    color: #ffffff;
 }
