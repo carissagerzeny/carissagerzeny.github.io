@@ -56,18 +56,21 @@ header a:focus {}
 article {
     clear: both;
     padding: 0 10px 0 10px; 
+    font-family: arial, sans-serif;
 }
 
 article h1 {
     font-size: 36px;
     line-height: 44px;
     margin-top: 4px; 
+    font-family: helvetica, arial, sans-serif;
 }
 
 article h2 {
     font-size: 24px;
     line-height: 28px; 
     margin-bottom: 4px; 
+    font-family: arial, sans-serif;
 } 
 
 
