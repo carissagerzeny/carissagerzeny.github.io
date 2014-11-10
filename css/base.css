@@ -25,9 +25,10 @@ header {
 }
 
 header h1 {
+    color: #bbbbbb;
     text-align:center;
     font-family: arial, sans-serif;
-    font-size: 16px;
+    font-size: 12px;
     font-weight: 500;
    
 }
@@ -88,6 +89,7 @@ footer {
     background-color: #000000;
     color: #ffffff;
     font-size: 12px; 
+    height: 70px;
     padding: 0 10px 0 10px; 
 
 }
@@ -112,3 +114,26 @@ article img {
     margin: 0 5% 0 5%;
     width: 90%;
 } 
+
+
+
+
+
+
+
+@media screen and (max-width: 600px) {
+    
+    body {
+        padding: 3%; 
+    }
+    
+    nav {
+        width: 100%;  
+    }
+        
+    #content {
+        clear: left; 
+        margin-left: 0; 
+        width: 100%; 
+    }
+}
