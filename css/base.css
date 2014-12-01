@@ -74,6 +74,11 @@ article h2 {
 } 
 
 
+.me {
+    max-width: 100%;
+    align-content: center;
+}
+
 div edm {
     position: fixed;
     top: 50%;
