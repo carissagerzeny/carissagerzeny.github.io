@@ -15,7 +15,8 @@ p {
     font-family: arial;
     font-size: 16px;
     line-height: 22px;
-    text-align: center;
+    margin-left: 10px; 
+    margin-right: 10px; 
 }
 
 header {
@@ -74,9 +75,21 @@ article h2 {
 } 
 
 
-.me {
-    max-width: 100%;
-    align-content: center;
+img.me {
+    height: 50%;
+    width: 50%;
+    float: left;
+    margin-right: 10px; 
+    margin-left: 10px;
+}
+
+
+img.sony {
+    width: 50%;
+    height: 50%;
+    float: right;
+    margin-right: 10px;
+    margin-left: 10px; 
 }
 
 div edm {
