@@ -12,8 +12,8 @@ body {
 
 p {
     margin-bottom: 16px;
-    font-family: arial;
-    font-size: 16px;
+    font-family: helvetica, arial;
+    font-size: 14px;
     line-height: 22px;
     margin-left: 10px; 
     margin-right: 10px; 
@@ -61,7 +61,7 @@ article {
 }
 
 article h1 {
-    font-size: 36px;
+    font-size: 26px;
     line-height: 44px;
     margin-top: 4px; 
     font-family: helvetica, arial, sans-serif;
@@ -73,6 +73,7 @@ article h2 {
     margin-bottom: 4px; 
     font-family: arial, sans-serif;
 } 
+
 
 
 img.me {
@@ -92,6 +93,14 @@ img.sony {
     margin-left: 10px; 
 }
 
+
+img.hang {
+    width: 100%;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+
 div edm {
     position: fixed;
     top: 50%;
@@ -106,9 +115,8 @@ footer {
     background-color: #000000;
     color: #ffffff;
     font-size: 12px; 
-    height: 70px;
+    height: 80px;
     padding: 0 10px 0 10px; 
-
 }
 
 footer a {
