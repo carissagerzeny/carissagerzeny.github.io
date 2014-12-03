@@ -13,7 +13,7 @@ body {
 p {
     margin-bottom: 16px;
     font-family: helvetica, arial;
-    font-size: 14px;
+    font-size: 16px;
     line-height: 22px;
     margin-left: 10px; 
     margin-right: 10px; 
@@ -91,6 +91,7 @@ img.sony {
     float: right;
     margin-right: 10px;
     margin-left: 10px; 
+    margin-bottom: 10px;
 }
 
 
@@ -108,8 +109,7 @@ footer {
     background-color: #000000;
     color: #ffffff;
     font-size: 12px; 
-    height: 80px;
-    padding: 0 10px 0 10px; 
+    padding: 30px 10px 30px 10px; 
 }
 
 footer a {
