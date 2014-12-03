@@ -77,8 +77,8 @@ article h2 {
 
 
 img.me {
-    height: 50%;
-    width: 50%;
+    height: 30%;
+    width: 30%;
     float: left;
     margin-right: 10px; 
     margin-left: 10px;
@@ -86,18 +86,11 @@ img.me {
 
 
 img.sony {
-    width: 50%;
-    height: 50%;
+    width: 30%;
+    height: 30%;
     float: right;
     margin-right: 10px;
     margin-left: 10px; 
-}
-
-
-img.hang {
-    width: 100%;
-    margin-right: 10px;
-    margin-left: 10px;
 }
 
 
